@@ -1,0 +1,16 @@
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Highway.deps.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Highway.runtimeconfig.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Highway.runtimeconfig.dev.json
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Highway.dll
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.csprojAssemblyReference.cache
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.RazorAssemblyInfo.cache
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.RazorAssemblyInfo.cs
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.AssemblyInfoInputs.cache
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.AssemblyInfo.cs
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.RazorTargetAssemblyInfo.cache
+D:\Projects\TollBooth\Highway\Highway\bin\Debug\netcoreapp2.1\Highway.pdb
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.dll
+D:\Projects\TollBooth\Highway\Highway\obj\Debug\netcoreapp2.1\Highway.pdb
